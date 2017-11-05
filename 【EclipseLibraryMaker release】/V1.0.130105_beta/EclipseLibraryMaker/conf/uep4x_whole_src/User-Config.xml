@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="GBK"?>
+<root>
+    <output>
+        <library_file_name>output\uep4x_whole.userlibraries</library_file_name>
+        <library_name>aasasasa</library_name>
+    </output>
+    <input>
+        <jar_directory>F:\4x\2014-03-20</jar_directory>
+        <source_folders>
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\common\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\common_sh\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\dsl\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\framework\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\layer2\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\layer3\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\service\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\simplevoip\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\sys\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\voice\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\map\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\dsl\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\is\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\eodn\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\eoc\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\lkteoc\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\msag\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\msg5600\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\a10\t600\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\a10\u300\src" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\common_sh\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\dsl\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\framework\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\layer2\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\layer3\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\service\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\simplevoip\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\sys\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\uni\voice\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\map\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\dsl\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\is\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\eodn\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\eoc\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\lkteoc\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\msag\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\msg5600\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\a10\t600\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\a10\u300\testsrc" />
+            <folder file="E:\SVN_4X\ZXNM01V4\zxnm01\ag\msag\unittestsrc" />
+        </source_folders>
+    </input>
+</root>
+

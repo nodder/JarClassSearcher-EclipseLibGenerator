@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+    <post-processes>
+        
+		 <process action="+" jar-file="ums-server\procs\lib\jackson-core-asl-1.5.3.jar" description="间接引用jar包中org.codehaus.jackson.JsonGenerationException。由于是间接引用，无法被程序识别，必须手工添加。"/>
+         <process action="+" jar-file="ums-server\procs\sdk\usf-tl1-arutils.jar" description="间接引用jar包中com.adventnet.agent.logging.Log。由于是间接引用，无法被程序识别，必须手工添加。"/>
+         <process action="+" jar-file="ums-server\procs\ppus\n3common.ppu\n3common-naf.pmu\n3common-ims-corba-cmccims0910.par\lib\n3common-naf_cmccims910-idl.jar" description="需使用com.zte.ums.n3common.northbound.ims.*。n3common.northbound下的类却找不到java代码，根据规则只能添加jar包" />
+         <process action="+" jar-file="ums-server\procs\lib\spring.jar" description="引用此jar包中类的方式，不是在import中引用，而是在方法内部使用new aaa.bbb.Ccc()方式引用，属于少见编程风格，无法被程序识别。" />
+         <process action="+" jar-file="ums-server\procs\lib\ums-an-converter.jar" description="需使用com.zte.ums.an.ag.converter.ConverterManager。an下的类却找不到java代码，根据规则只能添加jar包" />
+         <process action="+" jar-file="ums-server\procs\ppus\an.ppu\an-lkteoc.pmu\lkteoc-base.par\lib\lktservice.jar" description="需使用com.zte.ums.an.lkteoc.api.emf.LktSvrOperationImpl。an下的类却找不到java代码，根据规则只能添加jar包" />
+         <process action="-" jar-file="jdk\jdk\*.jar" description="冗余" />
+    </post-processes>
+</root>

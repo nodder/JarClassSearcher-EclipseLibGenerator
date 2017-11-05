@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<root>
+    <output>
+        <library_file_name>output\uep4x.userlibraries</library_file_name>
+        <library_name>My UEP4x Library</library_name>
+    </output>
+    <input>
+        <jar_directory>E:\4X</jar_directory>
+        <source_folders>
+            <folder file="E:\SVN_4x\ZXNM01V4\zxnm01\map\src\com\zte\ums\an\map\common\snmpoper" />
+        </source_folders>
+    </input>
+</root>
+

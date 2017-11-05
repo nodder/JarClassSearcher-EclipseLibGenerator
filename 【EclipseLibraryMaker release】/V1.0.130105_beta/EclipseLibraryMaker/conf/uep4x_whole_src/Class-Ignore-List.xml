@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+    <ignoreList-pattern>
+         <class-pattern fullClassName="com.zte.ums.n3common.api.*" note="" />
+         <class-pattern fullClassName="com.zte.ums.n3common.northbound.*" note="" />
+         <class-pattern fullClassName="com.zte.ums.n3common.support.*" note="" />
+         <class-pattern fullClassName="com.zte.ums.n3common.util.*" note="" />
+         
+         <class-pattern fullClassName="com.zte.ums.an.*" note="" />
+         
+         <class-pattern fullClassName="java.applet.*" note="" /> 
+         <class-pattern fullClassName="java.awt.*" note="" />
+         <class-pattern fullClassName="java.beans.*" note="" />
+         <class-pattern fullClassName="java.io.*" note="" />
+         <class-pattern fullClassName="java.lang.*" note="" />
+         <class-pattern fullClassName="java.math.*" note="" />
+         <class-pattern fullClassName="java.net.*" note="" />
+         <class-pattern fullClassName="java.nio.*" note="" />
+         <class-pattern fullClassName="java.rmi.*" note="" />
+         <class-pattern fullClassName="java.security.*" note="" />
+         <class-pattern fullClassName="java.sql.*" note="" />
+         <class-pattern fullClassName="java.text.*" note="" />
+         <class-pattern fullClassName="java.util.*" note="" />
+         <class-pattern fullClassName="javax.accessibility.*" note="" />
+         <class-pattern fullClassName="javax.activation.*" note="" />
+         <class-pattern fullClassName="javax.annotation.*" note="" />
+         <class-pattern fullClassName="javax.imageio.*" note="" />
+         <class-pattern fullClassName="javax.jws.*" note="" />
+         <class-pattern fullClassName="javax.lang.model.*" note="" />
+         <class-pattern fullClassName="javax.management.*" note="" />
+         <class-pattern fullClassName="javax.naming.*" note="" />
+         <class-pattern fullClassName="javax.print.*" note="" />
+         <class-pattern fullClassName="javax.script.*" note="" />
+         <class-pattern fullClassName="javax.security.*" note="" />
+         <class-pattern fullClassName="javax.smartcardio.*" note="" />
+         <class-pattern fullClassName="javax.sound.*" note="" />
+         <class-pattern fullClassName="javax.sql.*" note="" />
+         <class-pattern fullClassName="javax.swing.*" note="" />
+         <class-pattern fullClassName="javax.tools.*" note="" />
+         <class-pattern fullClassName="javax.transaction.*" note="" />
+         <class-pattern fullClassName="org.ietf.*" note="" />
+         <class-pattern fullClassName="org.jcp.*" note="" />
+         <class-pattern fullClassName="org.omg.*" note="" />
+         <class-pattern fullClassName="org.w3c.*" note="" />
+         <class-pattern fullClassName="org.xml.*" note="" />
+         
+         <class-pattern fullClassName="com.sun.org.apache.*" note="part in jdk" /> 
+    </ignoreList-pattern>
+</root>
+

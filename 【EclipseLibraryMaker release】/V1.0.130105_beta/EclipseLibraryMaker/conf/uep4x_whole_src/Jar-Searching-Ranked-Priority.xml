@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+    <filelist-pattern>
+		<file-pattern file="ums-server\procs\bsf\thirdparty\jfreechart.jar" />   
+        <file-pattern file="ums-server\procs\bsf\thirdparty\*.jar" />   
+        
+        <file-pattern file="ums-server\procs\bsf\services\usf-gui-component.jar" />
+        <file-pattern file="ums-server\procs\bsf\services\usf-api.par\usf-api.sar\*.jar" />
+        <file-pattern file="ums-server\procs\bsf\services\usf-api.par\*.jar" />      
+        <file-pattern file="ums-server\procs\bsf\core\lib\*.jar" />
+        <file-pattern file="ums-server\procs\bsf\core\mod\*.jar" />      
+        <file-pattern file="ums-server\procs\sdk\*.jar" />
+        <file-pattern file="ums-client\procs\sdk\*.jar" />
+        <file-pattern file="ums-client\procs\sdk\*.jar" />
+        
+		<file-pattern file="ums-server\procs\lib\zteSaveTofile.jar" />
+        <file-pattern file="ums-server\procs\lib\*.jar" />
+		<file-pattern file="ums-client\procs\lib\*.jar" />
+        <file-pattern file="uuf\lib\*.jar" />
+         <file-pattern file="ums-server\procs\bsf\*.jar" />
+        
+		<file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-api.pmu\n3common-api.par\lib\*.jar"  />
+        <file-pattern file="ums-server\procs\ppus\uca.ppu\uca-poll.pmu\uca-emf-poll.par\*.jar" />
+        <file-pattern file="ums-client\procs\ppus\uca.ppu\uca-topo.pmu\uca-wsf-topo.par\*.jar" />
+        <file-pattern file="ums-server\utils\dataupgrade\impl\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-if112-emf.par\lib\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-momng-osf.par\lib\*.jar" />
+        <file-pattern file="ums-client\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-momng-wsf.par\lib\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-topo-osf.par\lib\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-policy-osf.par\lib\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-policy-osf.par\lib\*.jar" />
+        <file-pattern file="ums-server\procs\ppus\n3common.ppu\n3common-support.pmu\n3common-support-rackmap-emf.par\lib\*.jar" />
+       
+
+    </filelist-pattern>
+</root>
+
