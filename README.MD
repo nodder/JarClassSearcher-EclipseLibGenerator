@@ -39,11 +39,7 @@ custom：用户自定义，无特殊优化。
 出现下面几种情况，本程序生成的user-libraries文件可能会遗漏部分jar包
     a)间接引用class
     b)类内部使用new全包名的方式(例如new org.jdom.IllegalDataException())引用另一个类
-    c)Java文件开头声明部分的import行编写不规范
-
-此时有两种处理方法，推荐第二种：
-    a)手工添加jar文件到user-libraries
-    b)修改程序配置文件，即将遗漏的jar包添加到post-processing.xml。
+    c)Java文件开头声明部分的import行编写不规范.此时有两种处理方法，推荐第二种：i)手工添加jar文件到user-libraries ii)修改程序配置文件，即将遗漏的jar包添加到post-processing.xml。
 --------------------------------
 
   
